@@ -1,0 +1,7 @@
+name: Fwibble
+description: Very fwibbly plugin
+author: https://github.com/StarfallProjects
+requirements: []
+configuration:
+  properties: {}
+  additionalProperties: false
