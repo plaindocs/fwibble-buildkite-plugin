@@ -1,0 +1,3 @@
+steps:
+  - label: "Hello world from a plugin script"
+    command: "script.bat"
